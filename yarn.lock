@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@fethcat/version@^0.0.3":
-  version "0.0.3"
-  resolved "https://registry.npmjs.org/@fethcat/version/-/version-0.0.3.tgz#5f21f18f397f7352862b4a9f339c555b099dbbcb"
-  integrity sha512-f9Hk59Vqyx35PNJ1a+GCMX9sSgFW95FApO3OQhZCq5W3S0MoymTdz7zGamQMSAW+X8mMHG/AmCZycRav8IVE1w==
+"@fethcat/version@^0.0.4":
+  version "0.0.4"
+  resolved "https://registry.npmjs.org/@fethcat/version/-/version-0.0.4.tgz#d117c6bd5f58a30f4b7ad851d1e25003641a5371"
+  integrity sha512-/6Jp6L8jvLkezh0LSQU75Ao1NUYhrFOTvfOMXRDL7tAeiJQpovTIDgCknn272Rj8r4zaBhLWmAboyVXR9iqT9A==
   dependencies:
     async-exec "^1.1.0"
 

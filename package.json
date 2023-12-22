@@ -7,5 +7,12 @@
     "package.json"
   ],
   "license": "ISC",
-  "scripts": {}
+  "scripts": {
+    "version:patch": "version patch",
+    "version:minor": "version minor",
+    "version:major": "version major"
+  },
+  "devDependencies": {
+    "@fethcat/version": "^0.0.3"
+  }
 }

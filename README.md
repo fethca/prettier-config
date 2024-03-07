@@ -18,7 +18,7 @@ Add it to your package.json file:
 
 ```json
 {
-  "name": "@fethcat/version",
+  "name": "xxx",
   "devDependencies": {
     "@fethcat/prettier-config": "^x.x.x",
     "prettier": "^x.x.x"

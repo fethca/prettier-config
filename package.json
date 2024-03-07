@@ -1,6 +1,6 @@
 {
   "name": "@fethcat/prettier-config",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "index.json",
   "files": [
     "index.json",

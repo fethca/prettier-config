@@ -16,13 +16,13 @@ yarn add -D prettier
 
 Add it to your package.json file:
 
-```typescript
+```json
 {
-    "name": "@fethcat/version",
-    "devDependencies": {
+  "name": "@fethcat/version",
+  "devDependencies": {
     "@fethcat/prettier-config": "^x.x.x",
-    "prettier": "^x.x.x",
-    },
-    "prettier": "@fethcat/prettier-config"
+    "prettier": "^x.x.x"
+  },
+  "prettier": "@fethcat/prettier-config"
 }
 ```

@@ -13,6 +13,6 @@
     "version:major": "version major"
   },
   "devDependencies": {
-    "@fethcat/version": "^0.0.4"
+    "@fethcat/version": "^0.0.6"
   }
 }
